@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey Everyone 👋</h1>
 
 ###
 
-<p align="left">My name is Oribi and I'm a front end developer</p>
+<p align="left">My name is Oribi and I'm a front end developer.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning ReactJS<br>🎯 Goals: To improve my dev skills and further my knowledge.</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning ReactJS<br>🎯 Goals: To improve my dev skills and further my knowledge</p>
 
 ###
 
